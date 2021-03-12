@@ -6,8 +6,10 @@
 </h1>
 <h4>Desenvolvedor e cientista de dados em formação. </h4>
 <h5> PROJETO</h5>
+<hr>
 <h1> Manipulando PDF</h1>
 <h3>Como extrair, limpar e formatar dados de um PDF com Python</h3>
 <p>Diferentemente de documentos de textos simples, PDF's são arquivos binários, o que os torna mais difíceis de manipular. Além disso, PDF’s podem conter imagens, diferentes fontes, cores, etc. complicando ainda mais a tarefa de manipulação – extrair, limpar e reestruturar dados. Felizmente, conhecendo um pouco de Python e alguns de seus módulos é possível facilitar e automatizar essa tarefa em um PDF.
+<br>
 <br>
 Para conhecer mais acesse o projeto acima. (Para melhor visualização, abra o Google Colab)</p>
