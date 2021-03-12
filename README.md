@@ -12,4 +12,4 @@
 <p>Diferentemente de documentos de textos simples, PDF's são arquivos binários, o que os torna mais difíceis de manipular. Além disso, PDF’s podem conter imagens, diferentes fontes, cores, etc. complicando ainda mais a tarefa de manipulação – extrair, limpar e reestruturar dados. Felizmente, conhecendo um pouco de Python e alguns de seus módulos é possível facilitar e automatizar essa tarefa em um PDF.
 <br>
 <br>
-Para conhecer mais acesse o projeto acima. (Para melhor visualização, abra o Google Colab)</p>
+Para conhecer mais, acesse o arquivo do projeto acima. (Para melhor visualização, clique em Open in Colab)</p>
